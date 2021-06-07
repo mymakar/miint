@@ -1,2 +1,2 @@
 # miint
-Code for MIINT (ICML 2021)
+Code for Exploiting structured data for learning contagious diseases under incomplete testing (ICML 2021)
